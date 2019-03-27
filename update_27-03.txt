@@ -1,0 +1,14 @@
+Para fazer as conversões das planilhas que estão em '.xls' será necessário renomeá-las todas para
+'.DBF', sendo assim, podemos utilizar algum código ou que possa rodar no terminal todos os arquivos
+de algum diretório específico. Por enquanto é o único método possível.
+
+Métodos:
+Utilizar a biblioteca 'os' no python para poder ir ao path correspondente e depois creio que irei
+utilizar o '.endswith(".xls")' para poder saber quais são os arquivos '.xls' para renomeá-los em
+'.DBF' e depois disso fazer um for até todo o 'if' for satisfeito. A função/método '.endswith()',
+tem o retorno como 'boolean' então já é o argumento do nosso 'if'. O else pode fazer um somatório
+de um 'i' qualquer (ex.: i += 1) para checar depois em um print se todos os arquivos estão sendo
+devidamente checados pelo nosso programa de renomeação.
+
+*	Podemos também pegar e junto nesse programa de renomeação fazer o programa direto para a
+conversão de '.DBF' para o '.csv'.
