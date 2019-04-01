@@ -1,0 +1,3 @@
+Depois de carregar e ler todos os dados em '.xls', pegar e agrupar pelo 'flow_m'
+em relação as datas e os horários do dia, tratar os outliers e plotar em gráficos
+pelo 'matplotlib'.

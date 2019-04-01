@@ -1,0 +1,6 @@
+*** Melhorias ***
+*Consertar as datas e as horas de cada planilha para poder trabalhar com elas;
+*A intenção é poder utilizar todas as informações do 'FLOW_M' para conseguir tratar os outliers como fica no gráfico 'bloxplot';
+*Plotar gráficos de perfil semanal, até examinar os horários de picos dentre outros tratamentos.
+
+update 01/04
