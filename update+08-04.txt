@@ -1,0 +1,5 @@
+update 08/04
+
+	Foi compreendido como é feito a conversão de 'int64' que era o tipo das datas nos DataFrame, mas para fazer isso, peguei apenas o 'int64' converti para uma string e depois transformei em uma lista. 
+	Mas agora o desafio é enviar novamente esse dado para ser recolocado no lugar do antigo, agora como se fosse um 'replace' de um 'int64' para uma 'string'. Preciso analisar se será necessário transformar novamente, agora a lista de string para somente string, sem falar que devemos ver se tem outro modo de fazer tudo isso, mas simples e rápido.
+	Pois no futuro precisarei fazer um script que possa fazer essa transformação dos dados em todos os arquivos csv.
