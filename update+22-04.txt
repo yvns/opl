@@ -1,0 +1,5 @@
+Update dia 22/04
+	Conseguido fazer o primeiro gráfico de uma planilha usando o 'matplotlib' do Python. Agora a meta é poder trabalhar exploratóriamente com esses dados e poder fazer mais plotagens, correlações entre eles, tratamento de outliers além de inúmeras coisas nesses vasto oceano de dados. 
+	A bolsa vai até final de Julho e a meta é já ter dados bem apresentados e organizados para serem apresentados em futuras oportunidades. Preciso fazer o planejamento do Resumo da bolsa para apresentar no dia dos Encontros Universitários, é necessário estar tudo pronto até Agosto de 2019.
+	Falta ainda estudar como melhorar o tratamento de organização em dicionários e também como eu posso acessar cada dados e chaves, inserção, remoção e a função 'sort()'.
+
