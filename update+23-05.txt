@@ -1,0 +1,3 @@
+update 23-05
+	Trabalhar com os dataframes utilizando o 'multiindex' do pandas, para poder fazer a média, visando diminuir o cubo de dados. Por exemplo, diminuir o dataframe em apenas um, tirando a média do fluxo pela a quantidade de arquivos, e depois tirar a média dos fluxos de um arquivo só, para cada horário de 15 em 15 minutos, plotando o gráfico de um dia da semana, seja seg ou ter, e mostrar relacionando com a mediana e vendo se é viável utilizar a média para todos ou não.
+	O eixo x do gráfico por exemplo é o horário de cada 15 minutos e o eixo y é o número de fluxo nesse horário para o total gráfico do dia.
