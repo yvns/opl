@@ -28,7 +28,7 @@ frame = frame.median(axis=1, numeric_only=True, skipna=True)
 frame = frame.unstack(level=0)
 print(frame, type(frame))
 
-frame.plot(figsize=(10, 8))
+frame.plot(figsize=(10, 8), title="00047:F")
 plt.show()
 
 #frame.set_index(['SCN', 'DATA', 'DIA_SEM', 'HORA_I', 'HORA_F'], inplace=True)
